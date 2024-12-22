@@ -1,0 +1,6 @@
+﻿  LeeAlgorithm.cpp
+C:\Users\remne\source\repos\krLabyrinth\krLabyrinth\LeeAlgorithm.cpp(33,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\remne\source\repos\krLabyrinth\krLabyrinth\LeeAlgorithm.cpp(34,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  main.cpp
+  Создание кода...
+  krLabyrinth.vcxproj -> C:\Users\remne\source\repos\krLabyrinth\x64\Debug\krLabyrinth.exe
