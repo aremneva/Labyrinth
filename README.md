@@ -1,6 +1,6 @@
-#Labyrinth 
-##Program for passing the maze based on the wave algorithm
-###Examples
+# Labyrinth 
+## Program for passing the maze based on the wave algorithm
+### Examples
 ```bash
 //input
 1 4 4 4 4 4 4
