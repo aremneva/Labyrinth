@@ -1,7 +1,7 @@
 # Labyrinth 
 ## Program for passing the maze based on the wave algorithm
 
-[[API Documentation]](https://aremneva.github.io/Labyrinth/html/)
+[[Doxygen Documentation]](https://aremneva.github.io/Labyrinth/html/)
 ### Examples
 ```bash
 //input
